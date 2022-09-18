@@ -5,4 +5,4 @@
 <p>Majority of the things inside of the universe do not have a clear reason for their existence. Apply that fact to this repository.</p>
 
 <h4>How can I contribute to the Rustception?</h4>
-<p>Simple, just create a file of any programming language of your choice titled "rust" in the "src" folder and display the word "Rust" to the console in whatever way you'd like.</p>
+<p>Simple, just create a file of any programming language of your choice titled "rust" in the <a href="https://github.com/devrusty/Rustception/tree/main/src">src</a> folder and display the word "Rust" to the console in whatever way you'd like.</p>
